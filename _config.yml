@@ -18,16 +18,16 @@ avatar: /images/ishu.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
-  facebook: 
+  email: ishu.madan91@gmail.com
+  facebook: ishumadan91
   flickr: 
   github: ishumadan91
   instagram: 
-  linkedin: 
+  linkedin: ishumadan91
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: ishumadan91
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/3070038/ishu-madan # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
